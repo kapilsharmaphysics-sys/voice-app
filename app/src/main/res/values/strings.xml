@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceApp</string>
+    <string name="record_permission_rationale">Microphone access is needed to record voice posts</string>
+</resources>
